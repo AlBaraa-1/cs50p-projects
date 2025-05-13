@@ -1,3 +1,0 @@
-# Week 4 – Libraries
-
-Coming soon...
