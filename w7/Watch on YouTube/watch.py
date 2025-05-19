@@ -17,5 +17,6 @@ def parse(s):
         # return the YouTube URL in the format "https://youtu.be/VIDEO_ID"
         return "https://youtu.be/" + src.group(1)
 
+
 if __name__ == "__main__":
     main()
